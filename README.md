@@ -5,7 +5,15 @@ Nesse projeto que desenvolvi eu apliquei todos os meus conhecimentos de aprendiz
 Funções, Leitura de dados vindo do usuário, validação e Laços de Repetição: For, Do-While.
 
 
-Para compilar e rodar execute o seguinte comando:
+Para compilar execute o seguinte comando:
 
-```gcc main.c -o tabuada```
+`gcc main.c -o tabuada`
+
+Para executar:
+
+no Linux:
+`./tabuada`
+
+no Windows:
+`./tabuada.exe`
 
