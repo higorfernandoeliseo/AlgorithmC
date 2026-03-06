@@ -15,5 +15,5 @@ no Linux:
 `./tabuada`
 
 no Windows:
-`./tabuada.exe`
+`tabuada.exe`
 
