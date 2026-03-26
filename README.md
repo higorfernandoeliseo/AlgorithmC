@@ -4,16 +4,17 @@ Nesse projeto que desenvolvi eu apliquei todos os meus conhecimentos de aprendiz
 
 Funções, Leitura de dados vindo do usuário, validação e Laços de Repetição: For, Do-While.
 
+Varios programas feitos em C como uma pratica do aprendizado. escolha um arquivo e para compilar execute o seguinte comando:
 
-Para compilar execute o seguinte comando:
+altere o o campo nomedoarquivo para o nome do arquivo em c disponivel.
 
-`gcc main.c -o tabuada`
+`gcc (nomedoarquivo).c -o (nomedoarquivo)`
 
 Para executar:
 
 no Linux:
-`./tabuada`
+`./(nomedoarquivo)`
 
 no Windows:
-`tabuada.exe`
+`(nomedoarquivo).exe`
 
