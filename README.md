@@ -1,4 +1,4 @@
-# Projeto Tabuada em C
+# Projeto Algoritmos em C
 
 Nesse projeto que desenvolvi eu apliquei todos os meus conhecimentos de aprendizado em C.
 
